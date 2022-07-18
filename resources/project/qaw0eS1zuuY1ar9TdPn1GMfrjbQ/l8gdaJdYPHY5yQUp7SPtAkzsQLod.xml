@@ -2,6 +2,5 @@
 <Info>
     <Category UUID="FileClassCategory">
         <Label UUID="design"/>
-        <Label UUID="none"/>
     </Category>
 </Info>
