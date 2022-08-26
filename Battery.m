@@ -17,7 +17,7 @@ classdef Battery
     end
 end
 
-name = "Qair",
+name = "Qair";
 max_power = 2e6;                       % Power                          [W]
 stock =  4.857316332726169e6;          % Battery capacity            [W*hr]
 state_of_charge = 0.45;                % [1]
